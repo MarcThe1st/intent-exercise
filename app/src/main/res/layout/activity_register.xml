@@ -61,7 +61,7 @@
                     android:id="@+id/text_fullname"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Fullname"
+                    android:hint="Farkhan Qomaruzaman"
                     />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -82,7 +82,7 @@
                     android:id="@+id/text_email"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Email"
+                    android:hint="H1D019057"
                     android:inputType="textEmailAddress"
                     />
             </com.google.android.material.textfield.TextInputLayout>
